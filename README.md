@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **zarzar076920@gmail.com**
 
-- 📄 Know about my experiences [https://msholdings-my.sharepoint.com/:b:/g/personal/khinthuzar_st_auston_edu_mm/EaURm77hIAZDnEyRP9vlxysBjwVYqF7KSppSV2i1cFfwuQ?e=S9Ruy9](https://msholdings-my.sharepoint.com/:b:/g/personal/khinthuzar_st_auston_edu_mm/EaURm77hIAZDnEyRP9vlxysBjwVYqF7KSppSV2i1cFfwuQ?e=S9Ruy9)
-
 - ⚡ Fun fact **Hello World!**
 
 <h3 align="left">Connect with me:</h3>
