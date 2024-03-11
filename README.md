@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kira.</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
-- 🔭 I’m currently working on [Ponyo Jump](https://kira-zowi.github.io/Ponyo-finding-sosuke/)
+- 🔭 I’m currently working on .
 
 - 🌱 I’m currently learning **React,Java Script**
 
